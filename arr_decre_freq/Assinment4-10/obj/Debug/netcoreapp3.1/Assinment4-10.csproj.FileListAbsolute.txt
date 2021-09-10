@@ -1,0 +1,13 @@
+C:\Users\Shwet\source\repos\Assinment4-10\Assinment4-10\bin\Debug\netcoreapp3.1\Assinment4-10.exe
+C:\Users\Shwet\source\repos\Assinment4-10\Assinment4-10\bin\Debug\netcoreapp3.1\Assinment4-10.deps.json
+C:\Users\Shwet\source\repos\Assinment4-10\Assinment4-10\bin\Debug\netcoreapp3.1\Assinment4-10.runtimeconfig.json
+C:\Users\Shwet\source\repos\Assinment4-10\Assinment4-10\bin\Debug\netcoreapp3.1\Assinment4-10.runtimeconfig.dev.json
+C:\Users\Shwet\source\repos\Assinment4-10\Assinment4-10\bin\Debug\netcoreapp3.1\Assinment4-10.dll
+C:\Users\Shwet\source\repos\Assinment4-10\Assinment4-10\bin\Debug\netcoreapp3.1\Assinment4-10.pdb
+C:\Users\Shwet\source\repos\Assinment4-10\Assinment4-10\obj\Debug\netcoreapp3.1\Assinment4-10.csprojAssemblyReference.cache
+C:\Users\Shwet\source\repos\Assinment4-10\Assinment4-10\obj\Debug\netcoreapp3.1\Assinment4-10.csproj.CoreCompileInputs.cache
+C:\Users\Shwet\source\repos\Assinment4-10\Assinment4-10\obj\Debug\netcoreapp3.1\Assinment4-10.AssemblyInfoInputs.cache
+C:\Users\Shwet\source\repos\Assinment4-10\Assinment4-10\obj\Debug\netcoreapp3.1\Assinment4-10.AssemblyInfo.cs
+C:\Users\Shwet\source\repos\Assinment4-10\Assinment4-10\obj\Debug\netcoreapp3.1\Assinment4-10.dll
+C:\Users\Shwet\source\repos\Assinment4-10\Assinment4-10\obj\Debug\netcoreapp3.1\Assinment4-10.pdb
+C:\Users\Shwet\source\repos\Assinment4-10\Assinment4-10\obj\Debug\netcoreapp3.1\Assinment4-10.genruntimeconfig.cache
